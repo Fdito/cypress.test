@@ -1,0 +1,25 @@
+{
+  "name": "cypress.test",
+  "version": "1.0.0",
+  "description": "Cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fdito/cypress.test.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fdito/cypress.test/issues"
+  },
+  "homepage": "https://github.com/Fdito/cypress.test#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
